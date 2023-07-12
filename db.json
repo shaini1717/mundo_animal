@@ -15,7 +15,7 @@
     [
         {
             "id": 1,
-            "avatar": "wp-content/themes/mundo_animal/img/mapaches01.jpg",
+            "avatar": "https://www.webconsultas.com/sites/default/files/styles/wch_image_schema/public/noticias/mapaches_comprometen_biodiversidad_europa.jpg",
             "nombre": "Mapache",
             "altura": "20 a 40cm",
             "habitat": "Su hábitat comprende lugares con árboles, cercanos a algún depósito de agua o curso, o manglares costeros.",
@@ -26,7 +26,7 @@
     [
         {
             "id": 1,
-            "avatar": "wp-content/themes/mundo_animal/img/carpincho01.jpg",
+            "avatar": "https://t2.ea.ltmcdn.com/es/posts/5/8/1/cuidados_de_una_capibara_20185_orig.jpg",
             "nombre": "Capybara",
             "altura": "50 a 62 cm",
             "habitat": "Suelen encontrarse en bosques y campos cerca de los cursos de agua y con abundancia de comida.",
@@ -37,7 +37,7 @@
     [
         {
             "id": 1,
-            "avatar": "wp-content/themes/mundo_animal/img/tigreblanco01.jpg",
+            "avatar": "https://1.bp.blogspot.com/-8wdvBIyaxSk/XZ0K7ZkHP_I/AAAAAAAAAvs/egnAshdpuIE0w1TKS6dUgkxds-ohH-NpACLcBGAsYHQ/s1600/white-tiger-2407799_1920%2B%25281%2529.jpg",
             "nombre": "Tigre Blanco",
             "altura": "90 a 110 cm",
             "habitat": "Selvas, llanuras con arbustos y hierbas altas, bosques cálidos y tropicales, junglas de Asia..",
