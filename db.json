@@ -1,0 +1,47 @@
+{
+    "animal":
+    [
+        {
+            "id": 1,
+            "avatar": "wp-content/themes/mundo_animal/img/coyote01.jpg",
+            "nombre": "Coyote",
+            "altura": "58cm",
+            "habitat": "Habitan en partes abiertas y a las horillas de los bosques.",
+            "peso": "6,8 a 21 kg"
+        }
+    ],
+
+    "animal2":
+    [
+        {
+            "id": 1,
+            "avatar": "wp-content/themes/mundo_animal/img/mapaches01.jpg",
+            "nombre": "Mapache",
+            "altura": "20 a 40cm",
+            "habitat": "Su hábitat comprende lugares con árboles, cercanos a algún depósito de agua o curso, o manglares costeros.",
+            "peso": "3,5 a 9 kg"
+        }
+    ],
+    "animal3":
+    [
+        {
+            "id": 1,
+            "avatar": "wp-content/themes/mundo_animal/img/carpincho01.jpg",
+            "nombre": "Capybara",
+            "altura": "50 a 62 cm",
+            "habitat": "Suelen encontrarse en bosques y campos cerca de los cursos de agua y con abundancia de comida.",
+            "peso": "35 a 66 kg"
+        }
+    ],
+    "animal4":
+    [
+        {
+            "id": 1,
+            "avatar": "wp-content/themes/mundo_animal/img/tigreblanco01.jpg",
+            "nombre": "Tigre Blanco",
+            "altura": "90 a 110 cm",
+            "habitat": "Selvas, llanuras con arbustos y hierbas altas, bosques cálidos y tropicales, junglas de Asia..",
+            "peso": "200 a 260 kg"
+        }
+    ]
+}
