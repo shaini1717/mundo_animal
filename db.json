@@ -3,7 +3,7 @@
     [
         {
             "id": 1,
-            "avatar": "wp-content/themes/mundo_animal/img/coyote01.jpg",
+            "avatar": "https://static.nationalgeographic.es/files/styles/image_3200/public/2329.600x450.jpg?w=1600",
             "nombre": "Coyote",
             "altura": "58cm",
             "habitat": "Habitan en partes abiertas y a las horillas de los bosques.",
